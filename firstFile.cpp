@@ -5,5 +5,7 @@ int main()
 {
     cout<<"Hello"; 
     
-    cout<<"hello kenny"<<endl; 
+    cout<<"hello kenny"<<endl;
+
+    cout <<"new changes " << endl; 
 }
